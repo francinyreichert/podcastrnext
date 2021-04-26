@@ -1,9 +1,9 @@
-<h2>💻 Preview do projeto </h2> 
+<h2>💻 Preview </h2> 
 <p align="center">
   <img src="" width="700" style="max-width:100%;">
  </p>
-<h2> 📖 Sobre</h2> 
-  <p>Projeto desenvolvido durante a <a href="https://nextlevelweek.com/inscricao/5"><strong>Next Level Week #5</strong></a> da <a href="https://github.com/Rocketseat"><strong>@Rocketseat</strong></a>, usando as tecnologias:</p>
+<h2> 📖 About</h2> 
+  <p>Project developed during <a href="https://nextlevelweek.com/inscricao/5"><strong>Next Level Week #5</strong></a> from <a href="https://github.com/Rocketseat"><strong>@Rocketseat</strong></a>. Technologies:</p>
   <ul>
     <li> ReactJS </li>
     <li> Next.JS </li>
