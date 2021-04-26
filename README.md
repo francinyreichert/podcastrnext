@@ -3,7 +3,9 @@
   <img src="" width="700" style="max-width:100%;">
  </p>
 <h2> 📖 About</h2> 
-  <p>Project developed during <a href="https://nextlevelweek.com/inscricao/5"><strong>Next Level Week #5</strong></a> from <a href="https://github.com/Rocketseat"><strong>@Rocketseat</strong></a>. Technologies:</p>
+  <p>Project developed during <a href="https://nextlevelweek.com/inscricao/5"><strong>Next Level Week #5</strong></a> from <a href="https://github.com/Rocketseat"><strong>@Rocketseat</strong></a>. The application allows the user to reproduce Podcasts. The user can play/pause, go to previous/next, and choose random and/or repeat mode.</p>
+
+<h2> 🛠 Technologies</h2>
   <ul>
     <li> ReactJS </li>
     <li> Next.JS </li>
